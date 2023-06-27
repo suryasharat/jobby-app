@@ -1,0 +1,27 @@
+.employment-container {
+  margin: 0px;
+}
+.employment-header {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: Roboto;
+  font-weight: 500;
+}
+.employment-list-container {
+  padding: 0px;
+  list-style-type: none;
+}
+.employment-list {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.filter-label {
+  color: #ffffff;
+  font-size: 12px;
+  font-family: Roboto;
+  margin-left: 10px;
+}
+.line {
+  width: 100%;
+}

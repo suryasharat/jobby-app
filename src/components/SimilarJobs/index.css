@@ -1,0 +1,14 @@
+.similar-list {
+  margin: 15px;
+  background-color: #272727;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 10px;
+  width: 30%;
+}
+@media screen and (max-width: 575px) {
+  .similar-list {
+    width: 100%;
+  }
+}

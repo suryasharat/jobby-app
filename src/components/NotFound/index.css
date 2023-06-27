@@ -1,0 +1,27 @@
+.not-container {
+  min-height: 100vh;
+  background-color: #000000;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.not-image {
+  width: 70%;
+}
+@media screen and (min-width: 576px) {
+  .not-image {
+    width: 450px;
+  }
+}
+.not-header {
+  color: #ffffff;
+  font-size: 40px;
+  font-family: Roboto;
+}
+.not-para {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: Roboto;
+}
